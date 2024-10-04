@@ -26,11 +26,10 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/image/logo.png">
-    <img src="image/logo.png" alt="Logo" width="600" height="200">
+  
   </a>
 
-<h3 align="center">Heart Disease Prediction Model</h3>
+<h3 align="center">Diabetes Prediction App</h3>
 
   <p align="center">
     A project designed for diabetes prediction in patients using Streamlit.!
