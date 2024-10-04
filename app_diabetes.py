@@ -18,7 +18,7 @@ diabetes_model = joblib.load('diabetes_model.pkl')
 
 #sidebar for navigation
 with st.sidebar:
-    selected = option_menu('Machine Learning Prediction System',['Diabetes Prediction'],
+    selected = option_menu('ML Diabetes Prediction App',['Diabetes Prediction'],
                            icons = ['activity'],default_index=0)
     
 #diabetes Prediction page
@@ -74,6 +74,11 @@ if st.button('Predict'):
     else:
         st.markdown(f'<h4 style="color:green; background-color:#000; size:20px">The model predicts you <strong>do not have diabetes</strong> with a probability of {1 - probability:.2f}.</h4>', unsafe_allow_html=True)
         st.status('Model Prediction Completed')
-        
+
+html_temp = """
+    <div style="background-color:black; padding:10px"; color:white;>
+    <h5 style="color:white; text-align:center;">&copy 2024 Created by: Collins Emezie Ugwuozor </h5>
+    </div>
+"""
 st.markdown(html_temp, unsafe_allow_html=True)
         
