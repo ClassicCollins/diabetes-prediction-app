@@ -61,7 +61,7 @@ A Streamlit App for Predicting Diabetes Risk in Patients
       <a href="#usage">Usage</a>
       <ul>
         <li><a href="#Required-Packages">Required Packages</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation-steps">Installation Steps</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -122,7 +122,7 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 * Click on the “Predict” button to get the diabetes risk prediction.
 * View the result.
 
-### Install Required Packages
+### Required Packages
 
 Ensure you have Python installed and then run:
 * requirement
@@ -130,7 +130,7 @@ Ensure you have Python installed and then run:
   pip install -r requirements.txt
   ```
 
-### Installation
+### Installation Steps
 
 1. Clone the repo:
    ```sh
