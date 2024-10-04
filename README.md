@@ -166,7 +166,7 @@ Ensure you have Python installed and then run:
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [Diabetes-Prediction-App](https://collins-diabetes-prediction.streamlit.app)
+Project Link: [Diabetes-Prediction-App](https://www.datascienceportfol.io/collinsugwuozor/projects/5)
 
 Don't forget to give the project a star! Thanks again!
 
