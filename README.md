@@ -1,2 +1,2 @@
 # diabetes-prediction-app
-A Streamlit Application that Predicts the Likelihood of Diabetes in Patients
+A Streamlit App for Predicting Diabetes Risk in Patients
