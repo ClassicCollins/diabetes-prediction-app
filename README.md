@@ -17,8 +17,6 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 *** for stars-url, forks-url, etc.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links 
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -48,7 +46,7 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>View Table of Contents</summary>
+  <summary>Click to View Table of Contents</summary>
   <ol>
     <li>
       <a href="#overview">Overview</a>
@@ -168,7 +166,7 @@ Ensure you have Python installed and then run:
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [Diabetes-Prediction-App](https://github.com/ClassicCollins/diabetes-prediction-app)
+Project Link: [Diabetes-Prediction-App](https://collins-diabetes-prediction.streamlit.app)
 
 Don't forget to give the project a star! Thanks again!
 
@@ -182,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 
 * [Python](https://www.python.org)
 * [MIT License](https://opensource.org/license/mit)
-* [Streamlite](https://streamlit.io/)
+* [Streamlit](https://streamlit.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
