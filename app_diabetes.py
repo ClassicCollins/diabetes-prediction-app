@@ -60,7 +60,7 @@ if(selected == 'Diabetes Prediction'):
     with col2:
        Age = st.number_input('Age', min_value=0, max_value=120, value=33)
        
-    st.write("""Note: Diabetes Pedigree Function means Family history 0 = None and 2.5 = certain""")   
+    st.write("""Note: Diabetes Pedigree Function: 0 = No family history, 2.5 = Strong family history""")   
     # code for prediction
     # Predict button
 if st.button('Predict'):
