@@ -30,9 +30,9 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 <h3 align="center">Diabetes Prediction App</h3>
 
   <p align="center">
-    A project designed for diabetes prediction in patients using Streamlit.!
+    A project designed for Predicting Diabetes Risk in Patients Using Streamlit App.!
     <br />
-    <a href="https://github.com/ClassicCollins/diabetes-prediction-app"><strong>Explore the Model »</strong></a>
+    <a href="https://github.com/ClassicCollins/diabetes-prediction-app"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
     <a href="https://collins-diabetes-prediction.streamlit.app/">Use The App</a>
@@ -177,7 +177,6 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-
 * [Python](https://www.python.org)
 * [MIT License](https://opensource.org/license/mit)
 * [Streamlit](https://streamlit.io/)
@@ -187,16 +186,8 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
-[contributors-url]: https://github.com/ClassicCollins/heart-disease-prediction/contributors
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=x&colorB=555
 [twitter-url]: https://x.com/ClassicCollins2
-[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
-[traffic-url]: https://github.com/ClassicCollins/heart-disease-prediction/traffic
-[forks-shield]: https://img.shields.io/github/forks/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
-[forks-url]: https://github.com/ClassicCollins/heart-disease-prediction/forks
-[stars-shield]: https://img.shields.io/github/stars/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
-[stars-url]: https://github.com/ClassicCollins/heart-disease-prediction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
 [issues-url]: https://github.com/ClassicCollins/heart-disease-prediction/issues
 [license-shield]: https://img.shields.io/github/license/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
