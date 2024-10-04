@@ -110,7 +110,7 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 
 <!-- RESULTS -->
 ## Results
-* The app predicts the probabilty of diabetes in patient
+* Predicts the likelihood of diabetes in patients
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
