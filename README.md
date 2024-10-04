@@ -20,7 +20,6 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-[![Python][Python-logo]][Python-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
@@ -91,8 +90,6 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 * `Python`
 * `Pandas`
 * `NumPy`
-* `Matplotlib`
-* `Seaborn`
 * `Streamlit`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,7 +99,14 @@ A Streamlit App for Predicting Diabetes Risk in Patients
 * `User-Friendly Interface:` Easy to navigate and input data.
 * `Real-Time Predictions:` Get instant predictions based on the input data.
 * `The dataset:` used for this project includes various health indicators such as
-- Id/id: Identifier of the individual.
+- Number of Pregnancies      (min_value=0, max_value=20)     
+- Glucose Level              (min_value=0, max_value=200)
+- Blood Pressure (mm Hg)     (min_value=0, max_value=122)
+- Skin Thickness (mm)        (min_value=0, max_value=100)
+- Insulin Level (mu U/ml)    (min_value=0, max_value=846)
+- Body Mass Index (BMI)      (min_value=0.0, max_value=100.0)
+- Diabetes Pedigree Function (min_value=0.0, max_value=2.5)
+- Age                        (min_value=0, max_value=120)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -151,8 +155,6 @@ Ensure you have Python installed and then run:
    ```sh
    streamlit run app_diabetes.py
    ```
-   streamlit run app.py
-
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
